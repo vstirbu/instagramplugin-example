@@ -6,6 +6,14 @@ Clone this repo:
 git clone https://github.com/vstirbu/instagramplugin-example.git
 ```
 
+Switch to the directory where you cloned the repo and create plugins and platforms directories:
+
+```
+cd instagramplugin-example
+mkdir platforms
+mkdir plugins
+```
+
 Add platforms:
 
 ```
